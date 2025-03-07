@@ -288,6 +288,7 @@ namespace Sneaker_store
             calculateButton.Enabled = true;
             reciptButton.Enabled = false;
 
+
         }
     }
 }
